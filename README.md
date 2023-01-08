@@ -4,7 +4,8 @@
 현재, 코드는 nico 쌤의 코드를 기본적으로 가져왔으며 부분 수정을 통해 마무리 작업을 진행한 상태입니다.
 (추후 코드 디테일도 나만의 방식으로 수정 예정)
 
-웹사이트 구동 예시(https://ando-zone.github.io/today_to_do_list/:
+웹사이트 구동 예시(https://ando-zone.github.io/today_to_do_list/):
+
 ![Uploading image.png…]()
 
 

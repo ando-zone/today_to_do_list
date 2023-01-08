@@ -6,7 +6,6 @@
 
 웹사이트 구동 예시(https://ando-zone.github.io/today_to_do_list/):
 
-![Uploading image.png…]()
-
+![image](https://user-images.githubusercontent.com/119149274/211185402-5fdad891-3701-4373-8f38-fb5f0089eeb2.png)
 
 출처: https://github.com/nomadcoders/javascript-for-beginners

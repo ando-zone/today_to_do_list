@@ -7,3 +7,6 @@
 * 웹사이트 구동 예시(https://ando-zone.github.io/today_to_do_list/):
 
 ![image](https://user-images.githubusercontent.com/119149274/211185402-5fdad891-3701-4373-8f38-fb5f0089eeb2.png)
+
+* 추후 추가 기능 생각하고 있는 것.
+1) 로그아웃 기능
